@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>BIOGRAFIA</TITLE>
+</head>
+
+<body>
+<h1>Adonis Daniel Rivera valdez</h1>
+</body>
+
+<section>
+<h2>Biografia</h2>
+<img src="img/pictures.jpg" width = "200" height="220">
+
+<h3>Datos Personales</h3>
+
+<p>
+Nombre: Adonis Rivera<br>
+Nacionalidad: Dominicana<br>
+fecha de nacimineto: 1993<br>
+Lugar de nacimineto: San Cristobal<br>
+Estado Civil: Soltero<br>
+</p>
+
+<h3>Contexto Familiar</h3>
+<p>
+Nací en la provincia san Cristóbal, en el municipio de palenque de la misma provincia. 
+Soy el más pequeño de cuatros hermanos; mi papa llamado Daniel Rivera y mi mama Marisol Valdez desde pequeño mis padres fueron muy unidos y dándonos los valores necesarios y por eso hoy en día somos personas de bien. 
+Crecí de una familia de cristiano muy humilde en ese tiempo mi madre trabajaba en una casa de familia y mi padre trabajaba en el INDRHI para poder darnos el sustento.<br>
+</p>
+
+<h3>Formacion Academica</h3>
+<p>
+
+Estudios segundarios: Técnico en Contabilidad y Administración de Empresa<br> 
+Estudios universitarios: Lic. En Informática “Cursando”<br>
+Técnico en Informática<br>
+Ofimática: Excel,Word,Powerpoint<br>
+CCN: Modulo 1<br>
+Introducción a la ciberseguridad<br>
+</p>
+
+<hr/>
+
+<table border="2">
+<h3> Horario de clases, 2025-2025</h3>
+
+<tr>
+<th> Materias</th>
+<th> Dias de clase</th>
+<th> horas de clase</th>
+</tr>
+
+<tr>
+
+<th> Base de Datos I </th>
+<th> Lunes </th>
+<th> 8:00/9:50 PM </th>
+
+</tr>
+
+<tr>
+
+<th> Inteligencia Artificial</th>
+<th> Martes </th>
+<th> 4:00/6:50 PM </th>
+</tr>
+
+<tr>
+<th> Lenguaje de Programación III
+<th> Martes </th>
+<th> 8:00/9:50 PM </th>
+</tr>
+
+<tr>
+
+<th> Lab Lenguaje de Program III
+<th> Miercoles </th>
+<th> 7:00/9:50 AM </th>
+</TR>
+
+</table>
+
+
+</html
